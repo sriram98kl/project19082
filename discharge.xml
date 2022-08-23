@@ -6,8 +6,8 @@
      
      
 <class name="pagesTestCasesYasasiiWeb.PatientDischarge_TestCasesYW"/>
-  <!-- <class name="pagesTestCasesYasasiiWeb.EMRBirthRegistrationTestCasesYW"/>
- <class name="pagesTestCasesYasasiiWeb.EMR_TwoBabyRegistration_TestCaswYW"/>-->
+   <class name="pagesTestCasesYasasiiWeb.EMRBirthRegistrationTestCasesYW"/>
+ <!--<class name="pagesTestCasesYasasiiWeb.EMR_TwoBabyRegistration_TestCaswYW"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
