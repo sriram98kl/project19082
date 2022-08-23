@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="pagesTestCasesYasasiiWeb.PatientDischarge_TestCasesYW">
+        <methods>
+          <include name="patientdischarge1" invocation-numbers="0"/>
+          <include name="navigateFOPage"/>
+          <include name="setup"/>
+          <include name="startTest"/>
+          <include name="logout"/>
+          <include name="teardown"/>
+          <include name="getTestMethodProperties"/>
+          <include name="extentReportEnd"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- pagesTestCasesYasasiiWeb.PatientDischarge_TestCasesYW -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

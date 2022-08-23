@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="2" verbose="5" name="Test">
+    <classes>
+
+
+<!--
+      <class name="pagesTestCasesYasasiiWeb.FO_EcounterCreationTestCaseYW"/>     
+      <class name="pagesTestCasesYasasiiWeb.bedCreationTestcase"/>    
+      <class name="pagesTestCasesYasasiiWeb.Masters_QQueueMaster_TestCasesYW"/> 
+      <class name="pagesTestCasesYasasiiWeb.Master_RoomStatusSetting_TestCaseYW"/>    
+      <class name="pagesTestCasesYasasiiWeb.Masters_CategoryMaster_TestCaseYW"/>
+     <class name="pagesTestCasesYasasiiWeb.OutsiderPatientRegTestCases"/>  
+     <class name="pagesTestCasesYasasiiWeb.IPAdvancepayBilling_TestCase_YW"/> 
+      <class name="pagesTestCasesYasasiiWeb.FO_AllTypesBill_TestCaseYW"/>
+     <class name="pagesTestCasesYasasiiWeb.MastersGenericTestCasesYW"/>                    
+      <class name="pagesTestCasesYasasiiWeb.FO_SingleBill_MultipleServices_TestCases_YW"/> 
+     <class name="pagesTestCasesYasasiiWeb.FO_queueDisplayTestCasesYW"/>   
+      <class name="pagesTestCasesYasasiiWeb.FO_OPadvpay_Testcase_YW"/> 
+      <class name="pagesTestCasesYasasiiWeb.FO_PharmacyBilling_TestCaseYW"/>    
+      <class name="pagesTestCasesYasasiiWeb.EnhancedERWorkflow_TestCaseYW"/> 
+      <class name="pagesTestCasesYasasiiWeb.IP_REferral_TestCaseYW"/>  
+      <class name="pagesTestCasesYasasiiWeb.FO_IPEnquiryAndStayPassTestCaseYW"/>  
+      <class name="pagesTestCasesYasasiiWeb.MastersResourceMasterTestCasesYW"/>   
+       <class name="pagesTestCasesYasasiiWeb.FO_AppoinmentCreationTestCasesYW"/>   
+       <class name="pagesTestCasesYasasiiWeb.FO_EncounterTypes_TestCases_YW"/> 
+        <class name="pagesTestCasesYasasiiWeb.FO_Billing_AdvanceCollection_TestCaseYW"/>      
+       <class name="pagesTestCasesYasasiiWeb.EMRHomePageYW"/>  
+       <class name="pagesTestCasesYasasiiWeb.PatientDischarge_TestCasesYW"/>     
+        <class name="pagesTestCasesYasasiiWeb.EMRADTTestCasesYW"/>   
+       <class name="pagesTestCasesYasasiiWeb.WhiteBoard_STAT_TeatcaseYW"/>  
+       <class name="pagesTestCasesYasasiiWeb.FO_MouseHoveringonOP_Testcases_YW"/> 
+       <class name="pagesTestCasesYasasiiWeb.EMR_RoomAllocationNurseAcceptanceTestCasesYW"/>        
+      <class name="pagesTestCasesYasasiiWeb.FO_combinationalPAY_Discprice_TestcaseYW"/>    
+       <class name="pagesTestCasesYasasiiWeb.IVCPOEViewTestCaseYW"/>  
+       <class name="pagesTestCasesYasasiiWeb.FO_ServiceBilling_TestCaseYW"/> 
+       <class name="pagesTestCasesYasasiiWeb.EMRBirthRegistrationTestCasesYW"/>  
+         
+       <class name="pagesTestCasesYasasiiWeb.FO_Copay_TestCaseYW"/>  -->  
+      <class name="pagesTestCasesYasasiiWeb.EMR_VisitSummaryTestCaseYW"/> 
+       <class name="pagesTestCasesYasasiiWeb.FO_ADT_AdmissionEditTestcaseYW"/>    
+      <class name="pagesTestCasesYasasiiWeb.FO_dietitian_appoinment_encounter_TestCaseYW"/> 
+      <class name="pagesTestCasesYasasiiWeb.IVImmunologyTestCaseYW"/>   
+      <class name="pagesTestCasesYasasiiWeb.IVRedoRequestTestCaseYW"/> 
+      <class name="pagesTestCasesYasasiiWeb.IVPanelServiceTestCaseYW"/> 
+      <class name="pagesTestCasesYasasiiWeb.IVRepeatTestTestCaseYW"/>
+      <class name="pagesTestCasesYasasiiWeb.IVAdditionalTestTestCasesYW"/>
+      <class name="pagesTestCasesYasasiiWeb.IVSampleTrackerTestCaseYW"/>     
+      <class name="pagesTestCasesYasasiiWeb.EMRJuniorSeniorDoctorVerificationTestCasesYW"/> 
+      <class name="pagesTestCasesYasasiiWeb.EMRNurseNotTestCasesYasasiiWeb"/>    
+      <class name="pagesTestCasesYasasiiWeb.EMRMedicationTestCaseYW"/>      
+      <class name="pagesTestCasesYasasiiWeb.FO_OPnewReservation_TestCaseYW"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
